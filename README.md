@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @freeBirdmonique
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning AWS Cloud Practitioner...
 - 💞️ I’m looking to collaborate on cloud
 - 📫 How to reach me freebirdinfinity@outlook.com...
 
